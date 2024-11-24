@@ -2,20 +2,21 @@
 
 Welcome to my GitHub profile! I'm a software developer passionate about building apps and exploring machine learning techniques.
 
-- **🌱 Currently learning**: Advanced Android UI design and LSTM networks for predictive modeling.
+- **🌱 Currently Learning**: Advanced Android chat-app design and machine learning techniques.
 - **🤖 Exploring**: AI and its applications in content creation and trend analysis.
 - **📚 Recent Projects**:
-  - 🛠️ [Android Chat App](https://github.com/jacques-core/android-chat-app) - A multi-pane chat app with Room database integration and real-time updates.
-  - 📊 [YouTube Trends Analysis](https://github.com/jacques-core/youtube-trends-analysis) - Predicting viral video views using machine learning.
+  - 🚗 [Heritage Ride](https://github.com/web-dev-final-project/heritage-ride.git) - Marketplace for trading collectible cars and parts
+  - 📊 [YouTube Trends Analysis](https://github.com/jacques-core/youtube-trends-analysis) - Predicting viral video views using machine learning
   - - **⚡ Fun fact**: I also love snowboarding and disc golf and Pokemon
 - 🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile) | ✉️ Email: jacquescore707@gmail.com
 
 ---
 
-### Technologies I Work With
-- **Languages**: Java, Python, SQL
-- **Frameworks**: Android SDK, TensorFlow
-- **Tools**: Git, Jupyter Notebook, Room ORM
+##Technologies I Work With
+**Languages**: Python, Java, C, Bash, JavaScript (Node.js), HTML/CSS
+**Databases**: SQL (PostgreSQL), NoSQL (MongoDB)
+**Frameworks/Libraries**: Scikit-Learn, Android SDK
+**Tools**: Git, Google Cloud, Android Studio
 
 ---
 
