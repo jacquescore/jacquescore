@@ -12,12 +12,11 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 
 ---
 
-##Technologies I Work With##
-**Languages**: Python, Java, C, Bash, JavaScript (Node.js), HTML/CSS
-**Databases**: SQL (PostgreSQL), NoSQL (MongoDB)
-**Frameworks/Libraries**: Scikit-Learn, Android SDK
-**Tools**: Git, Google Cloud, Android Studio
-
+### Technologies I Work With
+- **Languages**: Python, Java, C, Bash, JavaScript (Node.js), HTML/CSS  
+- **Databases**: SQL (PostgreSQL), NoSQL (MongoDB)  
+- **Frameworks/Libraries**: Scikit-Learn, Android SDK  
+- **Tools**: Git, Google Cloud, Android Studio
 ---
 
 ### Check Out My Pinned Repositories:
