@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- **🌱 Currently Learning**: Advanced Android chat-app design and machine learning techniques.
-- **🤖 Exploring**: AI and its applications in content creation and trend analysis.
+- **🤖 Exploring**: Differences between AI and human genrated code.
 - **📚 Recent Projects**:
   - 🚗 [Heritage Ride](https://github.com/web-dev-final-project/heritage-ride.git) - Marketplace for trading collectible cars and parts
   - 📊 [YouTube Trends Analysis](https://github.com/jacques-core/youtube-trends-analysis) - Predicting viral video views using machine learning
