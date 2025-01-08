@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- **🤖 Exploring**: Differences between AI and human genrated code.
+- **🤖 Exploring**: 
 - **📚 Recent Projects**:
   - 🚗 [Heritage Ride](https://github.com/web-dev-final-project/heritage-ride.git) - Marketplace for trading collectible cars and parts
   - 📊 [YouTube Trends Analysis](https://github.com/jacques-core/youtube-trends-analysis) - Predicting viral video views using machine learning
