@@ -4,10 +4,10 @@ Welcome to my GitHub profile!
 
 - **🤖 Currently Exploring**: How to master AI chatbot prompt generation
 - **📚 Recent Projects**: 
-  - 🚗 [Heritage Ride](https://github.com/web-dev-final-project/heritage-ride.git) - Marketplace for trading collectible cars and parts
-  - 📊 [YouTube Trends Analysis](https://github.com/jacques-core/youtube-trends-analysis) - Predicting viral video views using machine learning
+  - 🚗 [Heritage Ride](https://github.com/jacquescore/heritage-ride) - Marketplace for trading collectible cars and parts
+  - 📊 [YouTube Trends Analysis](https://github.com/jacquescore/Youtube-Trends) - Predicting viral video views using machine learning
 -  **⚡ Fun fact**: I also love snowboarding and disc golf
-- 📄 [View My Resume](https://docs.google.com/document/d/1xhq2XMlORkdMEBn0tTrCBcjgptkyA-tb0Y80bSmt5IQ/edit?tab=t.0) | 🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile) | ✉️ Email: jacquescore707@gmail.com
+- 📄 [View My Resume](https://docs.google.com/document/d/1Is_uHEBV_YwtiZnE-0S5pMdxM1rPxx49TeFqMENrro8/edit?tab=t.0) | ✉️ Email: jacquescore707@gmail.com
 
 <!--
 **jacquescore/jacquescore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
